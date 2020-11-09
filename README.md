@@ -5,3 +5,5 @@ My name is Paul Addison.
 I am a student at Ivy Tech Community College
 This is my first change.
 
+Read-me edits. Adding new lines.
+
